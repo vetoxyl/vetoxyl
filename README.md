@@ -10,12 +10,12 @@ Check out some of my projects below to get a glimpse of what I’ve been working
 
 ### 🛠️ **Technologies & Tools:**
 - **Cloud Providers**: AWS (EC2, S3, ECR, ALB, ECS, Lambda)
-- **DevOps Tools**: Terraform, Docker, Kubernetes, Jenkins, GitHub Actions
-- **Languages**: Node.js, JavaScript, TypeScript, Python
+- **DevOps Tools**: Terraform, Docker, Kubernetes, GitHub Actions
+- **Languages**: Node.js, JavaScript, Python
 - **Web Technologies**: React, Next.js, Express, NestJS
 - **Databases**: MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions, Jenkins
+- **CI/CD**: GitHub Actions
 
 ---
 
